@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp1.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="About" Height="300" Width="300" Background="Black" ResizeMode="NoResize" WindowStartupLocation="CenterOwner" WindowStyle="None" AllowsTransparency="True" Opacity="0.9">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="137" Margin="10,21,0,0" VerticalAlignment="Top" Width="126" Source="rss/git.jpg">
+            <Image.OpacityMask>
+                <ImageBrush ImageSource="rss/git.jpg" Stretch="Uniform"/>
+            </Image.OpacityMask>
+        </Image>
+        <Label Content="For &#xD;&#xA;non-commercial &#xD;&#xA;use only" HorizontalAlignment="Left" Height="84" Margin="163,34,0,0" VerticalAlignment="Top" Width="127" Foreground="Green" FontWeight="Bold" FontSize="14"/>
+        <Label Content="Made by Nickolay Gureyev" Height="31" Margin="0,163,0,0" VerticalAlignment="Top" Width="218" Foreground="Green" FontSize="16" FontWeight="Bold" HorizontalAlignment="Center"/>
+
+        <Button Content="Close" HorizontalAlignment="Center" Margin="0,237,0,0" VerticalAlignment="Top" Width="93" Height="33" Click="Button_Click" Background="Black" Foreground="Green" BorderBrush="Green"/>
+        <TextBlock HorizontalAlignment="Center" Margin="0,199,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="27" Width="190" Background="Black">
+            <Hyperlink NavigateUri="https://github.com/Chocobo1983" RequestNavigate="Hyperlink_RequestNavigate" Foreground="Green" Background="Black">
+        https://github.com/Chocobo1983
+    </Hyperlink>
+        </TextBlock>
+    </Grid>
+</Window>
