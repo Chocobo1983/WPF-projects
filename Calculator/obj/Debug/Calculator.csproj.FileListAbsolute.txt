@@ -1,0 +1,43 @@
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Debug\Calculator.exe.config
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Debug\Calculator.application
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Debug\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Debug\Calculator.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\About.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\MainWindow.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\App.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\About.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\MainWindow.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.g.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.TrustInfo.xml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.exe.manifest
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.application
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Debug\Calculator.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\About.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\MainWindow.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\App.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator_MarkupCompile.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator_MarkupCompile.lref
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\bin\Debug\Calculator.exe.config
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\bin\Debug\Calculator.exe.manifest
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\bin\Debug\Calculator.application
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\bin\Debug\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\bin\Debug\Calculator.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\About.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\MainWindow.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.g.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.Properties.Resources.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.TrustInfo.xml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.exe.manifest
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Debug\Calculator.application

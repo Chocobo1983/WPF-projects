@@ -1,0 +1,17 @@
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\App.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\MainWindow.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\About.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\WpfApp1\obj\Debug\About.baml

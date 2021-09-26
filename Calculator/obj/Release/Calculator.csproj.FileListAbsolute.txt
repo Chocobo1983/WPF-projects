@@ -1,0 +1,30 @@
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.csprojAssemblyReference.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\About.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\MainWindow.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\App.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\About.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\MainWindow.baml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.csproj.GenerateResource.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.csproj.CoreCompileInputs.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator_MarkupCompile.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator_MarkupCompile.lref
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.g.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.Properties.Resources.resources
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Release\Calculator.exe.config
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Release\Calculator.exe.manifest
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Release\Calculator.application
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Release\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\bin\Release\Calculator.pdb
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.TrustInfo.xml
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.exe.manifest
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator\obj\Release\Calculator.application
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\Calculator.csproj.AssemblyReference.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\About.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\MainWindow.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\App.g.cs
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\Calculator_MarkupCompile.cache
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\Calculator_MarkupCompile.lref
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\Calculator.exe
+D:\Программирование\Программирование\ШАГ\WPF\new\HW\HW1\Calculator (1)\obj\Release\Calculator.pdb
