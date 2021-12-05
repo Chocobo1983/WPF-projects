@@ -1,0 +1,20 @@
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.csproj.AssemblyReference.cache
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\App.g.cs
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM_MarkupCompile.cache
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM_MarkupCompile.lref
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\bin\Debug\Calculator MVVM.exe.config
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\bin\Debug\Calculator MVVM.exe
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\bin\Debug\Calculator MVVM.pdb
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.g.resources
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator_MVVM.Properties.Resources.resources
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.csproj.GenerateResource.cache
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.csproj.CoreCompileInputs.cache
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.exe
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\Calculator MVVM.pdb
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\styles\Bloody.baml
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\styles\Matrix.baml
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\styles\Snowhite.baml
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\MainWindow.g.cs
+C:\Users\Ziriaele\source\repos\Calculator MVVM\Calculator MVVM\obj\Debug\MainWindow.baml
